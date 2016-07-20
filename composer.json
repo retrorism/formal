@@ -1,0 +1,21 @@
+
+{
+	"name": "retrorism/formal",
+	"type": "kohana-module",
+	"description": "Kohana module and jQuery plugin to handle form validation at client and server side - put online for composer req purposes only",
+	"homepage": "https://github.com/retrorism/formal",
+	"license": "BSD-3-Clause",
+	"keywords": ["kohana", "databases", "mysql", "mysqli"],
+	"authors": [
+		{
+			"name": "wgiog",
+			"homepage": "https://github.com/wgiog",
+			"role": "developer"
+		}
+	],
+	"support": {
+		"forum": "http://forum.kohanaframework.org",
+		"irc": "irc://irc.freenode.net/kohana",
+		"source": "https://github.com/retrorism/formal"
+	}
+}
